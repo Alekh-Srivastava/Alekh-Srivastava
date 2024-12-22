@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am  Alekh Srivastava</h1>
-<h3 align="center">Interested in Full Stack Develpoment, Machine Learning and Python Scripting </h3>
+<h3 align="center">I Know Full Stack Develpoment, Machine Learning and Python Scripting </h3>
 
 
 ## 🌐 Socials:
